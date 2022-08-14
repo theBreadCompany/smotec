@@ -7,7 +7,7 @@ This project was born as a birthday present for a friend and reuses some materia
 ## Materials
 In order to build, have these components around:
 - Pi (Pico or Zero for the size)
-- LM75A temperature sensor (at best as a package so you can plug'n'play) ([already did some experimenting](https://gist.github.com/theBreadCompany/45d2e88e474c84dc763857e80e569c82)
+- LM75A temperature sensor (at best as a package so you can plug'n'play) ([already did some experimenting](https://gist.github.com/theBreadCompany/45d2e88e474c84dc763857e80e569c82))
 - a 16x2 LCD (mine has no I2C controller)
 - a case, which is to be designed and 3D-printed (WIP)
 
