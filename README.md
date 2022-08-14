@@ -1,0 +1,2 @@
+# smotec
+smol temperature collector
